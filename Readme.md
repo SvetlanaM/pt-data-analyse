@@ -1,6 +1,7 @@
-# Parcel delivery analyses
+# Parcel tracking analyse
 
 This code analyse data about deliveries of the most common Czech parcel tracking providers. 
+
 
 📝 **Analyse**
 
@@ -14,7 +15,9 @@ This code analyse data about deliveries of the most common Czech parcel tracking
 8. Identification of cancelled deliveries
 9. Finding the missing states or bad states orders in the delivery flow
 
+
 📝 **Data source**
+
 
 | Name        | Source           |
 | ------------- |:-------------:|
