@@ -1,3 +1,5 @@
 *.csv
 *.png
 /venv
+/.ipynb_checkpoints
+/mall_pt
