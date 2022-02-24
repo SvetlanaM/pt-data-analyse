@@ -2,7 +2,7 @@
 
 This code analyse data about deliveries of the most common Czech parcel tracking providers. 
 
-📝 Analyse
+📝 **Analyse**
 
 1. Market share across providers
 2. Basic aggregation functions per provider about deliveries and parcel
@@ -14,10 +14,10 @@ This code analyse data about deliveries of the most common Czech parcel tracking
 8. Identification of cancelled deliveries
 9. Finding the missing states or bad states orders in the delivery flow
 
-📝 Data source
+📝 **Data source**
 
 | Name        | Source           |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|
 | `internal eshop database` | Data about orders and customers |
 | `providers` | Data from REST API or from FTP about deliveries from every provider |
 
